@@ -1,0 +1,19 @@
+.image {
+    height: 50vh;
+    width: 80vh;
+}
+
+.border {
+    border: 20px;
+    border-style: solid;
+}
+
+h1 {
+    font-family: roboto;
+    font-weight: bold;
+}
+
+#headingamazon {
+    color: #959ead;
+    font-size: 20px;
+}
